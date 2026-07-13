@@ -108,7 +108,7 @@
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=synthwave&hide_border=true&bg_color=0f0c29&title_color=00fff9&text_color=ffffff&icon_color=ff2079" width="48%"/>
-<img src="https://streak-stats.demolab.com/?user=TU_USUARIO&theme=highcontrast&hide_border=true&background=0f0c29&stroke=00fff9&ring=ff2079&fire=ffee00" width="48%"/>
+
 </div>
 
 <div align="center">
