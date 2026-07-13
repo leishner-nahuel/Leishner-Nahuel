@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header retro synthwave con sol y grid -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:2b0a3d,25:6a2c91,50:c92a6c,75:ff6b35,100:ffd23f&height=220&section=header&text=NIGHT%20CITY%20TERMINAL&fontSize=42&fontColor=fff2ea&animation=twinkling&fontAlignY=35&desc=%3C%3C%20ARCHIVO%20DE%20USUARIO%20//%201986%20%3E%3E&descAlignY=58&descColor=00fff9&fontFamily=Courier" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:2b0a3d,25:6a2c91,50:c92a6c,75:ff6b35,100:ffd23f&height=220&section=header&text=NIGHT%20CITY%20TERMINAL&fontSize=42&fontColor=fff2ea&animation=twinkling&fontAlignY=35&desc=%3C%3C%20ARCHIVO%20DE%20USUARIO%20-%201986%20%3E%3E&descAlignY=58&fontFamily=Courier" width="100%"/>
 
 <!-- Typing SVG con fuente pixel/retro -->
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3500&pause=900&color=FF6EC7&center=true&vCenter=true&width=700&height=80&lines=INSERT+COIN...;LOADING+PROFILE_EXE;DESARROLLADOR+WEB;TECNICO+PC+%26+HARDWARE;NETRUNNER+%2F+RECOVERY;PRESS+START" alt="Typing SVG" />
